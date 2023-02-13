@@ -10,9 +10,9 @@ html {
     position: absolute;
     top: 400px;
     left: 670px;
-    padding: 25px 70px;
+    padding: 25px 30px;
     border-radius: 10px;
-    background-color: green;
+    background-color: rgb(14, 169, 186);
     color: white;
     font-size: xx-large;
     font-weight: 700;
