@@ -1,5 +1,19 @@
-body, html{
-	margin: 0px;
-	height: 100%;
-	overflow-y: hidden;
+body,
+html {
+    margin: 0px;
+    height: 100%;
+    overflow: hidden;
+}
+
+
+#btn {
+    position: absolute;
+    top: 400px;
+    left: 880px;
+    padding: 25px 70px;
+    border-radius: 10px;
+    background-color: orange;
+    color: white;
+    font-size: large;
+    font-weight: 700;
 }
